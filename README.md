@@ -1,4 +1,4 @@
 batch
 =====
 
-batch scripts interpreted wy windows command prompt
+batch scripts interpreted by windows command prompt
